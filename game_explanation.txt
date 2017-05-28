@@ -1,0 +1,24 @@
+Fall down game -- J Preston Harvey jph8rw , George Wilson gaw8cf
+
+describing what your game is, what your features are that you want us to grade, and how to play it.
+
+The game we created is our version of fall down. The objective is counter-intuitive as the user aims to make the
+character fall off the bottom of the screen and avoid getting crushed at the top. Once the game begins,
+gravity has an effect and the ball moves down while walls move up to hinder the user's ability to "fall down." The
+character interacts with powerups, coins, and bombs along the way.
+
+To play: Press space. Move red character (the ball) around using the left and right arrows. Collect coins, the more
+coins you collect, the higher your score is. Avoid walls that push the character to the top. Touching the top means the
+game is over. The red/brown squares are bombs, which subtract 5 points from the your score if the you have more
+than 5 points. The blue powerup creates a 'magical' wrap so that you can go to the left or right edge of the screen and
+pop out on the other side for a limited amount of time. The white power up is a speed powerup that makes left and right
+movements faster. The orange powerup clears all the walls for a small amount of time so the ball is able to fall down
+easily.
+
+Features to grade:
+
+Enemies: the bomb that hinders the user's ability to get a high score by taking away points
+Collectables: coins, speed powerup, clear and wrap powerup
+Music/Sound effects: continuous song during game play, powerup sound, coin sound, bomb sound, and end game (splat) sound
+Animation: the coins are based on a sprite sheet that animates them so they appear to spin
+
